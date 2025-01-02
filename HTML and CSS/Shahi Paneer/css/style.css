@@ -1,0 +1,27 @@
+/* TAG SELECTOR */
+h1{
+    color: red;
+    font-size: 100px;
+}
+
+img:hover{
+    background-color: powderblue;
+}
+
+/* CLASS SELECTOR */
+.paneer{
+    background-color: green;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+.chicken{
+    background-color: red;
+}
+
+/* ID SELECTOR */
+#heading{
+    color: green;
+}
